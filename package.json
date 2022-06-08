@@ -17,7 +17,7 @@
   "dependencies": {
     "carrier": "0.3.0",
     "mongoose": "^5.11.13",
-    "morgan": "^1.10.0",
+    "morgan": "github:dubinin-an/morgan",
     "stream": "0.0.2"
   },
   "devDependencies": {
